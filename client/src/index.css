@@ -1,0 +1,11 @@
+@import url("https://fonts.googleapis.com/css2?family=Monomakh&family=Outfit:wght@100..900&family=Sigmar&display=swap");
+
+@import "tailwindcss";
+
+* {
+  font-family: "Outfit", sans-serif;
+}
+
+::-webkit-scrollbar {
+  display: none;
+}
